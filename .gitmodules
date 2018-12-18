@@ -1,0 +1,9 @@
+[submodule "themes/timer"]
+	path = themes/timer
+	url = https://github.com/themefisher/timer-hugo.git
+[submodule "themes/bw"]
+	path = themes/bw
+	url = https://github.com/naro143/hugo-coder-portfolio.git
+[submodule "themes/hugi"]
+	path = themes/hugi
+	url = https://github.com/jpescador/hugo-future-imperfect.git
